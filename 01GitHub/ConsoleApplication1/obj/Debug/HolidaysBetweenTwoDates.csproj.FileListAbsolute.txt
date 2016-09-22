@@ -1,0 +1,5 @@
+D:\li4ni\Nasko\PC_School\C#\001 TechModule\AllProjects\01GitHub\ConsoleApplication1\obj\Debug\HolidaysBetweenTwoDates.csprojResolveAssemblyReference.cache
+D:\li4ni\Nasko\PC_School\C#\001 TechModule\AllProjects\01GitHub\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\li4ni\Nasko\PC_School\C#\001 TechModule\AllProjects\01GitHub\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\li4ni\Nasko\PC_School\C#\001 TechModule\AllProjects\01GitHub\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\li4ni\Nasko\PC_School\C#\001 TechModule\AllProjects\01GitHub\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
