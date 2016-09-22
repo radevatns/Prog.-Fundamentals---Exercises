@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolidaysBetweenTwoDates", "ConsoleApplication1\HolidaysBetweenTwoDates.csproj", "{3D9AE20A-8453-4C6A-8214-AB7A4CBF28C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Double Palindromes", "Double Palindromes\Double Palindromes.csproj", "{9330807F-8376-40E8-B935-8E85FAAFD729}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoublePolindromesV2", "DoublePolindromesV2\DoublePolindromesV2.csproj", "{294C454F-BBAD-41EA-AA73-4B5025F1A6A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{3D9AE20A-8453-4C6A-8214-AB7A4CBF28C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D9AE20A-8453-4C6A-8214-AB7A4CBF28C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D9AE20A-8453-4C6A-8214-AB7A4CBF28C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9330807F-8376-40E8-B935-8E85FAAFD729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9330807F-8376-40E8-B935-8E85FAAFD729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9330807F-8376-40E8-B935-8E85FAAFD729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9330807F-8376-40E8-B935-8E85FAAFD729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{294C454F-BBAD-41EA-AA73-4B5025F1A6A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294C454F-BBAD-41EA-AA73-4B5025F1A6A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294C454F-BBAD-41EA-AA73-4B5025F1A6A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294C454F-BBAD-41EA-AA73-4B5025F1A6A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

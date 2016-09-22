@@ -13,28 +13,19 @@ namespace ConsoleApplication1
         {
             var startDate = DateTime.ParseExact(Console.ReadLine(), "d.M.yyyy", CultureInfo.InvariantCulture);
             var endDate = DateTime.ParseExact(Console.ReadLine(), "d.M.yyyy", CultureInfo.InvariantCulture);
-            Console.WriteLine(startDate);
-            Console.WriteLine(endDate);
             var holidaysCount = 0;
-            var curentTime = DateTime.Now;//del if not used
-            Console.WriteLine("Current Time is {0}", curentTime);
-
             for (var date = startDate; date <= endDate; date = date.AddDays(1))
             {
-                Console.WriteLine("the date is: {0}", date);
-                               
-                if (date.DayOfWeek == DayOfWeek.Saturday ||
-                        date.DayOfWeek == DayOfWeek.Sunday)
+                if (date.DayOfWeek == DayOfWeek.Saturday || date.DayOfWeek == DayOfWeek.Sunday)
                 {
                     holidaysCount++;
                 }
             }
             Console.WriteLine(holidaysCount);
         }
-     
     }
 }
-
+//Original !!!
 /*var startDate = DateTime.ParseExact(Console.ReadLine(),
                         "dd.MM.yyyy", CultureInfo.InvariantCulture);
             var endDate = DateTime.ParseExact(Console.ReadLine(),

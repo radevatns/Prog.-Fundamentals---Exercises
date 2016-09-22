@@ -1,0 +1,5 @@
+D:\li4ni\Nasko\PC_School\C#\001 TechModule\AllProjects\01GitHub\Double Palindromes\bin\Debug\Double Palindromes.exe.config
+D:\li4ni\Nasko\PC_School\C#\001 TechModule\AllProjects\01GitHub\Double Palindromes\bin\Debug\Double Palindromes.exe
+D:\li4ni\Nasko\PC_School\C#\001 TechModule\AllProjects\01GitHub\Double Palindromes\bin\Debug\Double Palindromes.pdb
+D:\li4ni\Nasko\PC_School\C#\001 TechModule\AllProjects\01GitHub\Double Palindromes\obj\Debug\Double Palindromes.exe
+D:\li4ni\Nasko\PC_School\C#\001 TechModule\AllProjects\01GitHub\Double Palindromes\obj\Debug\Double Palindromes.pdb

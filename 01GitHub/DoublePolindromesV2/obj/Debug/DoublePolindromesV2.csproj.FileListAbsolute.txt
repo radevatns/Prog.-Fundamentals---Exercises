@@ -1,0 +1,5 @@
+D:\li4ni\Nasko\PC_School\C#\001 TechModule\AllProjects\01GitHub\DoublePolindromesV2\bin\Debug\DoublePolindromesV2.exe.config
+D:\li4ni\Nasko\PC_School\C#\001 TechModule\AllProjects\01GitHub\DoublePolindromesV2\bin\Debug\DoublePolindromesV2.exe
+D:\li4ni\Nasko\PC_School\C#\001 TechModule\AllProjects\01GitHub\DoublePolindromesV2\bin\Debug\DoublePolindromesV2.pdb
+D:\li4ni\Nasko\PC_School\C#\001 TechModule\AllProjects\01GitHub\DoublePolindromesV2\obj\Debug\DoublePolindromesV2.exe
+D:\li4ni\Nasko\PC_School\C#\001 TechModule\AllProjects\01GitHub\DoublePolindromesV2\obj\Debug\DoublePolindromesV2.pdb
