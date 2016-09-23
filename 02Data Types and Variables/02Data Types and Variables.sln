@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Centuries to Minutes", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CircleArea(Precision 12)", "02.CircleArea(Precision 12)\02.CircleArea(Precision 12).csproj", "{2EFFA45F-C6E7-4D5F-BCC9-04EEB194E576}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03ExactSumOfRealNumbers", "03ExactSumOfRealNumbers\03ExactSumOfRealNumbers.csproj", "{768031AB-41E0-4DF7-9E84-422E0339EBE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04Elevator", "04Elevator\04Elevator.csproj", "{6CAB4E5D-6150-4508-BB8D-508E374FDAAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{2EFFA45F-C6E7-4D5F-BCC9-04EEB194E576}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EFFA45F-C6E7-4D5F-BCC9-04EEB194E576}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EFFA45F-C6E7-4D5F-BCC9-04EEB194E576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{768031AB-41E0-4DF7-9E84-422E0339EBE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768031AB-41E0-4DF7-9E84-422E0339EBE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768031AB-41E0-4DF7-9E84-422E0339EBE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768031AB-41E0-4DF7-9E84-422E0339EBE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CAB4E5D-6150-4508-BB8D-508E374FDAAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CAB4E5D-6150-4508-BB8D-508E374FDAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CAB4E5D-6150-4508-BB8D-508E374FDAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CAB4E5D-6150-4508-BB8D-508E374FDAAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
