@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EC0BA73A-DC63-405F-BB3C-27404982CCDB}</ProjectGuid>
+    <ProjectGuid>{FBA3781E-21BD-4370-898D-BD525CE9AEFE}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_07Greeting</RootNamespace>
-    <AssemblyName>07Greeting</AssemblyName>
+    <RootNamespace>_08Refactor_Volume_of_Pyramid</RootNamespace>
+    <AssemblyName>08Refactor Volume of Pyramid</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="07Greeting.cs" />
+    <Compile Include="08Refactor Volume of Pyramid.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
