@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18DifferentIntegersSize", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19TheaThePhotographer", "19TheaThePhotographer\19TheaThePhotographer.csproj", "{477123A8-0B64-4DBA-AB36-852CB5BFC071}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00areaForTesting", "00areaForTesting\00areaForTesting.csproj", "{18F79799-7220-470A-B82B-682736F13D8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{477123A8-0B64-4DBA-AB36-852CB5BFC071}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{477123A8-0B64-4DBA-AB36-852CB5BFC071}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{477123A8-0B64-4DBA-AB36-852CB5BFC071}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18F79799-7220-470A-B82B-682736F13D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18F79799-7220-470A-B82B-682736F13D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18F79799-7220-470A-B82B-682736F13D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18F79799-7220-470A-B82B-682736F13D8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
