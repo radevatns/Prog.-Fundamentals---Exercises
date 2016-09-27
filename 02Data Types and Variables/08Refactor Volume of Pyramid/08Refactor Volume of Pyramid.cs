@@ -4,7 +4,7 @@
     {
         static void Main()
         {
-        double lenght, width, height;
+        double lenght, width, height; 
         Console.Write("Length: ");
         lenght = double.Parse(Console.ReadLine());
         Console.Write("Width: ");
