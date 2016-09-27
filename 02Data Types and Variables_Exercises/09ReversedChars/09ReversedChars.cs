@@ -8,6 +8,5 @@ class Program
         string secondLetter = Console.ReadLine();
         string thirdLetter = Console.ReadLine();
         Console.WriteLine("{0}{1}{2}",thirdLetter,secondLetter,firstLetter);
-
-    }
+   }
 }
