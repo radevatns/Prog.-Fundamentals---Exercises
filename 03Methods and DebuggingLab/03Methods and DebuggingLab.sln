@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05CalculateTriangleArea", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06MathPower", "06MathPower\06MathPower.csproj", "{4B9A903C-777E-47D5-8E5D-6326EDB33A75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07GreaterOfTwoValues", "07GreaterOfTwoValues\07GreaterOfTwoValues.csproj", "{32227E96-8F21-4931-8136-27C639B151A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08Multiply Evens by Odds", "08Multiply Evens by Odds\08Multiply Evens by Odds.csproj", "{F0E9D2E1-5FB4-48D4-B901-1AE7BD256510}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{4B9A903C-777E-47D5-8E5D-6326EDB33A75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B9A903C-777E-47D5-8E5D-6326EDB33A75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B9A903C-777E-47D5-8E5D-6326EDB33A75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32227E96-8F21-4931-8136-27C639B151A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32227E96-8F21-4931-8136-27C639B151A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32227E96-8F21-4931-8136-27C639B151A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32227E96-8F21-4931-8136-27C639B151A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0E9D2E1-5FB4-48D4-B901-1AE7BD256510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0E9D2E1-5FB4-48D4-B901-1AE7BD256510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0E9D2E1-5FB4-48D4-B901-1AE7BD256510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0E9D2E1-5FB4-48D4-B901-1AE7BD256510}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
