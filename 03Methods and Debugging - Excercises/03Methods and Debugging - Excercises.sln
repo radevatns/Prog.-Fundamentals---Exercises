@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01HelloName", "01HelloName!\01HelloName.csproj", "{D3055EA6-FCA1-4851-B8B9-546AD82B7264}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02MaxMethod", "02MaxMethod\02MaxMethod.csproj", "{0AB9043B-C594-44A4-9499-D7AD046644AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03EnglishNameOfLastDigit", "03EnglishNameOfLastDigit\03EnglishNameOfLastDigit.csproj", "{7E19A5AE-11DF-4B64-8C8C-2ABD0A111DC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3055EA6-FCA1-4851-B8B9-546AD82B7264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3055EA6-FCA1-4851-B8B9-546AD82B7264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3055EA6-FCA1-4851-B8B9-546AD82B7264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3055EA6-FCA1-4851-B8B9-546AD82B7264}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AB9043B-C594-44A4-9499-D7AD046644AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB9043B-C594-44A4-9499-D7AD046644AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB9043B-C594-44A4-9499-D7AD046644AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB9043B-C594-44A4-9499-D7AD046644AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E19A5AE-11DF-4B64-8C8C-2ABD0A111DC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E19A5AE-11DF-4B64-8C8C-2ABD0A111DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E19A5AE-11DF-4B64-8C8C-2ABD0A111DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E19A5AE-11DF-4B64-8C8C-2ABD0A111DC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
