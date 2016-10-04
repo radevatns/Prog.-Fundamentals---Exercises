@@ -6,5 +6,11 @@ using System.Linq;
     {
         static void Main()
         {
-        }
+        List<int> inputList = Console.ReadLine().Split(' ').Select(int.Parse).ToList();
+
+        //Console.WriteLine(string.Join("@",inputArr));
+        List<int> finalList = new List<int>();
+        
+
+    }
     }
