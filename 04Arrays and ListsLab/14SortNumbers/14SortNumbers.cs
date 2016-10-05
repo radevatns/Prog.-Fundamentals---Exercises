@@ -6,5 +6,8 @@ using System.Linq;
     {
         static void Main()
         {
+        List<double> inputList = Console.ReadLine().Split(' ').Select(double.Parse).ToList();
+        inputList.Sort();
+        Console.WriteLine(string.Join(" <= ",inputList));
         }
     }
