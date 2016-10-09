@@ -38,7 +38,7 @@ namespace _09LongerLine
             double c2 = Math.Abs(Math.Sqrt(Math.Pow(x2, 2) + Math.Pow(y2, 2)));// no work with or without Math.Abs
             if (c2 < c1)
             {
-                Console.WriteLine($"({x2}, {y2})({x1}, {x1})");
+                Console.WriteLine($"({x2}, {y2})({x1}, {y1})");
             }
             else
             {
